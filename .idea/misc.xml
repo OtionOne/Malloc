@@ -7,10 +7,16 @@
         <option value="$PROJECT_DIR$/lil-product/pom.xml" />
         <option value="$PROJECT_DIR$/lil-ware/pom.xml" />
         <option value="$PROJECT_DIR$/lil-order/pom.xml" />
+        <option value="$PROJECT_DIR$/renren-fast/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/renren-fast/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
